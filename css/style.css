@@ -1,0 +1,89 @@
+body {
+	background-image: url("/img/bg.png");
+	background-color: #151414;
+	padding-bottom: 20px;
+}
+
+.titulo-a {
+		font-family: 'Berkshire Swash', cursive;
+}
+
+p {
+font-family: 'Mulish', sans-serif;
+}
+
+.footer-text {
+	color: rgba(255, 255, 255, 1);
+	fill: currentColor;
+}
+
+#information img{
+	padding: 10px 0px;
+	width: 600px;
+	height: auto;
+}
+
+#descripcion {
+	padding-top: 60px;
+	padding-bottom: 60px;
+	color: rgba(255, 255, 255, 1);
+	fill: currentColor;
+}
+
+.square {
+	background-color: rgba(149, 168, 0, .6);
+	color: rgba(255, 255, 255, 1);
+	height: 400px;
+	font-size: 26px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.one{
+	font-family: Cambria;
+}
+
+.second{
+	font-family: Cambria;
+}
+
+#information{
+	background-color: #151414;
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+
+#opciones {
+	color: rgba(255, 255, 255, 1);
+	text-align: center;
+	font-size: 2.2em;
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+/* Style all font awesome icons */
+footer .fa {
+  padding: 0;
+  font-size: 1em;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+ul {
+  display: table;
+  margin: 0 auto;
+}
+
+.klaquetalogo {
+	width: 30px;
+	height: auto;
+}
