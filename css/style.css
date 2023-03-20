@@ -21,6 +21,16 @@ a.titulo-a:hover {
 	color: #bcc0c9;
 }
 
+a.footer-a:link,
+a.footer-a:visited,
+a.footer-a:active {
+	color: #FFF;
+}
+
+a.footer-a:hover {
+	color: #bcc0c9;
+}
+
 .titulo-b {
 		font-family: 'Berkshire Swash', cursive;
 		color: rgba(255, 255, 255, 1);
@@ -79,6 +89,20 @@ font-family: 'Open Sans', sans-serif;
 	padding-bottom: 20px;
 }
 
+#historia .square_tutorial{
+	background-color:orangered;
+	color: rgba(255, 255, 255, 1);
+	height: auto;
+	font-size: 26px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-right: 10px;
+}
+
+#historia img{
+	padding-left: 10px;
+}
+
 .one{
 	font-family: Cambria;
 }
@@ -99,6 +123,19 @@ font-family: 'Open Sans', sans-serif;
 	font-size: 2.2em;
 	padding-top: 60px;
 	padding-bottom: 60px;
+}
+
+#actos {
+color: rgba(255, 255, 255, 1);
+font-size: 2.1em;
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+
+#actosimg{
+	padding: 10px 0px;
+	width: 600px;
+	height: 500;
 }
 
 .navbar {
@@ -149,6 +186,20 @@ footer{
 #contact li i{
 	text-align: start !important;
 }
+
+#who h1{
+	color: orange;
+	margin-top: 20px;
+	margin-bottom: 70px;
+}
+
+#who{
+	margin-top: 70px;
+}
+
+#who h
+
+
 
 
 /* Style all font awesome icons */
